@@ -1,0 +1,50 @@
+C:\Users\Thanh Gia\source\repos\QL_HienMau\QL_HienMau\obj\Debug\QL_HienMau.csprojAssemblyReference.cache
+C:\Users\Thanh Gia\source\repos\QL_HienMau\QL_HienMau\obj\Debug\QL_HienMau.FormHanhTrinhMau.resources
+C:\Users\Thanh Gia\source\repos\QL_HienMau\QL_HienMau\obj\Debug\QL_HienMau.FormQLDVMau.resources
+C:\Users\Thanh Gia\source\repos\QL_HienMau\QL_HienMau\obj\Debug\QL_HienMau.FormQLKetQuaDVM.resources
+C:\Users\Thanh Gia\source\repos\QL_HienMau\QL_HienMau\obj\Debug\QL_HienMau.FormQLNguoiHM.resources
+C:\Users\Thanh Gia\source\repos\QL_HienMau\QL_HienMau\obj\Debug\QL_HienMau.Properties.Resources.resources
+C:\Users\Thanh Gia\source\repos\QL_HienMau\QL_HienMau\obj\Debug\QL_HienMau.csproj.GenerateResource.cache
+C:\Users\Thanh Gia\source\repos\QL_HienMau\QL_HienMau\obj\Debug\QL_HienMau.csproj.CoreCompileInputs.cache
+C:\Users\Thanh Gia\source\repos\QL_HienMau\QL_HienMau\bin\Debug\QL_HienMau.exe.config
+C:\Users\Thanh Gia\source\repos\QL_HienMau\QL_HienMau\bin\Debug\QL_HienMau.exe
+C:\Users\Thanh Gia\source\repos\QL_HienMau\QL_HienMau\bin\Debug\QL_HienMau.pdb
+C:\Users\Thanh Gia\source\repos\QL_HienMau\QL_HienMau\obj\Debug\QL_HienMau.exe
+C:\Users\Thanh Gia\source\repos\QL_HienMau\QL_HienMau\obj\Debug\QL_HienMau.pdb
+C:\Users\Thanh Gia\source\repos\QL_HienMau\QL_HienMau\obj\Debug\QL_HienMau.FormTimKiemNguoiHM.resources
+C:\Users\Thanh Gia\source\repos\QL_HienMau\QL_HienMau\obj\Debug\QL_HienMau.FormTimKiemDVM.resources
+C:\Users\Thanh Gia\source\repos\QL_HienMau\QL_HienMau\obj\Debug\QL_HienMau.FormTimKiemNhomMau.resources
+C:\Users\Thanh Gia\source\repos\QL_HienMau\QL_HienMau\obj\Debug\QL_HienMau.FormThongKeSLDVMDaSD.resources
+C:\Users\Thanh Gia\source\repos\QL_HienMau\QL_HienMau\obj\Debug\QL_HienMau.FormDangNhap.resources
+C:\Users\Thanh Gia\source\repos\QL_HienMau\QL_HienMau\obj\Debug\QL_HienMau.FormTrangChu.resources
+C:\Users\Thanh Gia\source\repos\QL_HienMau\QL_HienMau\obj\Debug\QL_HienMau.FormDoiMK.resources
+C:\Users\Thanh Gia\source\repos\QL_HienMau\QL_HienMau\obj\Debug\QL_HienMau.FormAbout.resources
+C:\Users\Thanh Gia\source\repos\QL_HienMau\QL_HienMau\obj\Debug\QL_HienMau.FormHelp.resources
+C:\Users\Thanh Gia\source\repos\QL_HienMau\QL_HienMau\obj\Debug\QL_HienMau.FormThongKeSoLanHM.resources
+C:\Users\Thanh Gia\source\repos\QL_HienMau\QL_HienMau\obj\Debug\QL_HienMau.FormThongKeMauConLai.resources
+C:\Users\Thanh Gia\source\repos\QL_HienMau\QL_HienMau\obj\Debug\QL_HienMau.FormThongKeSLNHMTheoNam.resources
+D:\Thi_DAHTTT\QL_HienMau\QL_HienMau\bin\Debug\QL_HienMau.exe.config
+D:\Thi_DAHTTT\QL_HienMau\QL_HienMau\bin\Debug\QL_HienMau.exe
+D:\Thi_DAHTTT\QL_HienMau\QL_HienMau\bin\Debug\QL_HienMau.pdb
+D:\Thi_DAHTTT\QL_HienMau\QL_HienMau\obj\Debug\QL_HienMau.csproj.AssemblyReference.cache
+D:\Thi_DAHTTT\QL_HienMau\QL_HienMau\obj\Debug\QL_HienMau.FormAbout.resources
+D:\Thi_DAHTTT\QL_HienMau\QL_HienMau\obj\Debug\QL_HienMau.FormDangNhap.resources
+D:\Thi_DAHTTT\QL_HienMau\QL_HienMau\obj\Debug\QL_HienMau.FormDoiMK.resources
+D:\Thi_DAHTTT\QL_HienMau\QL_HienMau\obj\Debug\QL_HienMau.FormHanhTrinhMau.resources
+D:\Thi_DAHTTT\QL_HienMau\QL_HienMau\obj\Debug\QL_HienMau.FormHelp.resources
+D:\Thi_DAHTTT\QL_HienMau\QL_HienMau\obj\Debug\QL_HienMau.FormQLDVMau.resources
+D:\Thi_DAHTTT\QL_HienMau\QL_HienMau\obj\Debug\QL_HienMau.FormQLKetQuaDVM.resources
+D:\Thi_DAHTTT\QL_HienMau\QL_HienMau\obj\Debug\QL_HienMau.FormQLNguoiHM.resources
+D:\Thi_DAHTTT\QL_HienMau\QL_HienMau\obj\Debug\QL_HienMau.FormThongKeMauConLai.resources
+D:\Thi_DAHTTT\QL_HienMau\QL_HienMau\obj\Debug\QL_HienMau.FormThongKeSLDVMDaSD.resources
+D:\Thi_DAHTTT\QL_HienMau\QL_HienMau\obj\Debug\QL_HienMau.FormThongKeSLNHMTheoNam.resources
+D:\Thi_DAHTTT\QL_HienMau\QL_HienMau\obj\Debug\QL_HienMau.FormThongKeSoLanHM.resources
+D:\Thi_DAHTTT\QL_HienMau\QL_HienMau\obj\Debug\QL_HienMau.FormTimKiemNguoiHM.resources
+D:\Thi_DAHTTT\QL_HienMau\QL_HienMau\obj\Debug\QL_HienMau.FormTimKiemDVM.resources
+D:\Thi_DAHTTT\QL_HienMau\QL_HienMau\obj\Debug\QL_HienMau.FormTimKiemNhomMau.resources
+D:\Thi_DAHTTT\QL_HienMau\QL_HienMau\obj\Debug\QL_HienMau.FormTrangChu.resources
+D:\Thi_DAHTTT\QL_HienMau\QL_HienMau\obj\Debug\QL_HienMau.Properties.Resources.resources
+D:\Thi_DAHTTT\QL_HienMau\QL_HienMau\obj\Debug\QL_HienMau.csproj.GenerateResource.cache
+D:\Thi_DAHTTT\QL_HienMau\QL_HienMau\obj\Debug\QL_HienMau.csproj.CoreCompileInputs.cache
+D:\Thi_DAHTTT\QL_HienMau\QL_HienMau\obj\Debug\QL_HienMau.exe
+D:\Thi_DAHTTT\QL_HienMau\QL_HienMau\obj\Debug\QL_HienMau.pdb
